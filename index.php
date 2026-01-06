@@ -13,6 +13,7 @@
 
 <meta name="description" content="HarvestBite Catering offers premium USA-based wedding catering, corporate event catering, and private party catering with custom menus and professional chefs.">
 <link rel="icon" type="image/webp" sizes="16x16" href="c3.webp">
+    <link rel="stylesheet" href="style.css">
 
 
 
@@ -1438,7 +1439,7 @@ body{
         <!-- Right Illustration / Banner Image -->
         <div class="hero-image">
             <img src="d3.webp"
-                 alt="Premium Catering Service USA">
+                 alt="Premium Catering Service USA"loading="lazy">
         </div>
 
     </div>
@@ -1467,7 +1468,7 @@ body{
             <div class="service-card">
                 <div class="service-image">
                     <img src="c1.webp"
-                         alt="Corporate Catering USA">
+                         alt="Corporate Catering USA"loading="lazy">
                 </div>
 
                 <h3>Corporate & Business Catering</h3>
@@ -1493,7 +1494,7 @@ body{
             <div class="service-card">
                 <div class="service-image">
                     <img src="c2.webp"
-                         alt="Wedding Catering Services">
+                         alt="Wedding Catering Services"loading="lazy">
                 </div>
 
                 <h3>Wedding & Reception Catering</h3>
@@ -1519,7 +1520,7 @@ body{
             <div class="service-card">
                 <div class="service-image">
                     <img src="c3.webp"
-                         alt="Private Event Catering USA">
+                         alt="Private Event Catering USA"loading="lazy">
                 </div>
 
                 <h3>Private & Social Event Catering</h3>
@@ -1604,7 +1605,7 @@ body{
         <!-- Right Image -->
         <div class="about-image">
             <img src="about.webp"
-                 alt="Professional Catering Team USA">
+                 alt="Professional Catering Team USA"loading="lazy">
         </div>
 
     </div>
@@ -1633,7 +1634,7 @@ body{
             <div class="menu-card">
                 <div class="menu-image">
                     <img src="d1.webp"
-                         alt="Event Appetizers Catering">
+                         alt="Event Appetizers Catering"loading="lazy">
                 </div>
 
                 <h3>Gourmet Appetizers & Starters</h3>
@@ -1657,7 +1658,7 @@ body{
             <div class="menu-card">
                 <div class="menu-image">
                     <img src="d2.webp"
-                         alt="Premium Catering Main Course USA">
+                         alt="Premium Catering Main Course USA"loading="lazy">
                 </div>
 
                 <h3>Premium Entrées & Main Course</h3>
@@ -1681,7 +1682,7 @@ body{
             <div class="menu-card">
                 <div class="menu-image">
                     <img src="banner.webp"
-                         alt="Dessert Catering Service USA">
+                         alt="Dessert Catering Service USA"loading="lazy">
                 </div>
 
                 <h3>Signature Desserts & Sweet Table</h3>
@@ -2127,6 +2128,7 @@ function toggleMenu(){
 
 </body>
 </html>
+
 
 
 
