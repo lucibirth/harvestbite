@@ -96,11 +96,11 @@
         <!-- Right Illustration / Banner Image -->
         <div class="hero-image">
             <img
-                src="d3-800.webp"
+                src="d3.webp"
                 srcset="
-                    d3-400.webp 400w,
-                    d3-800.webp 800w,
-                    d3-1200.webp 1200w
+                    d3.webp 400w,
+                    d3.webp 800w,
+                    d3.webp 1200w
                 "
                 sizes="(max-width: 768px) 90vw,
                        (max-width: 1200px) 50vw,
@@ -890,6 +890,7 @@ function toggleMenu(){
 
 </body>
 </html>
+
 
 
 
