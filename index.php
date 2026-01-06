@@ -114,7 +114,6 @@
 
     <div class="services-container">
 
-        <!-- Section Header -->
         <div class="services-header">
             <h2>Professional Catering Services Across The USA</h2>
             <p>
@@ -124,31 +123,23 @@
             </p>
         </div>
 
-        <!-- Services Grid -->
         <div class="services-grid">
 
             <!-- Corporate Catering -->
             <div class="service-card">
                 <div class="service-image">
                     <img
-                        src="c1-600.webp"
-                        srcset="
-                            c1-400.webp 400w,
-                            c1-600.webp 600w,
-                            c1-900.webp 900w
-                        "
-                        sizes="(max-width: 768px) 90vw,
-                               (max-width: 1200px) 45vw,
-                               360px"
+                        src="c1.webp"
                         width="900"
                         height="600"
                         loading="lazy"
                         decoding="async"
-                        alt="Corporate Catering USA">
+                        alt="Corporate Catering USA"
+                        style="max-width:100%;height:auto"
+                    >
                 </div>
 
                 <h3>Corporate & Business Catering</h3>
-
                 <p>
                     Ideal for executive meetings, conferences, training events,
                     office lunches and corporate receptions with professional service standards.
@@ -170,24 +161,17 @@
             <div class="service-card">
                 <div class="service-image">
                     <img
-                        src="c2-600.webp"
-                        srcset="
-                            c2-400.webp 400w,
-                            c2-600.webp 600w,
-                            c2-900.webp 900w
-                        "
-                        sizes="(max-width: 768px) 90vw,
-                               (max-width: 1200px) 45vw,
-                               360px"
+                        src="c2.webp"
                         width="900"
                         height="600"
                         loading="lazy"
                         decoding="async"
-                        alt="Wedding Catering Services">
+                        alt="Wedding Catering Services"
+                        style="max-width:100%;height:auto"
+                    >
                 </div>
 
                 <h3>Wedding & Reception Catering</h3>
-
                 <p>
                     Elegant banquet-style wedding catering with customized menus,
                     premium presentation and full-service event coordination support.
@@ -209,24 +193,17 @@
             <div class="service-card">
                 <div class="service-image">
                     <img
-                        src="c3-600.webp"
-                        srcset="
-                            c3-400.webp 400w,
-                            c3-600.webp 600w,
-                            c3-900.webp 900w
-                        "
-                        sizes="(max-width: 768px) 90vw,
-                               (max-width: 1200px) 45vw,
-                               360px"
+                        src="c3.webp"
                         width="900"
                         height="600"
                         loading="lazy"
                         decoding="async"
-                        alt="Private Event Catering USA">
+                        alt="Private Event Catering USA"
+                        style="max-width:100%;height:auto"
+                    >
                 </div>
 
                 <h3>Private & Social Event Catering</h3>
-
                 <p>
                     Designed for birthday celebrations, family gatherings,
                     holiday parties and upscale private dining experiences.
@@ -249,6 +226,7 @@
     </div>
 
 </section>
+
 
 
 <!-- ===== ABOUT CATERING COMPANY ===== -->
@@ -883,6 +861,7 @@ function toggleMenu(){
 
 </body>
 </html>
+
 
 
 
