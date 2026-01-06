@@ -1637,7 +1637,7 @@ body{
             <!-- Appetizers -->
             <div class="menu-card">
                 <div class="menu-image">
-                    <img src="images/d1.webp"
+                    <img src="d1.webp"
                          alt="Event Appetizers Catering">
                 </div>
 
@@ -2132,4 +2132,5 @@ function toggleMenu(){
 
 </body>
 </html>
+
 
