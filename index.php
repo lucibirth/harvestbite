@@ -12,17 +12,12 @@
 <title>HarvestBite Catering — Premium USA Event Catering Services</title>
 
 <meta name="description" content="HarvestBite Catering offers premium USA-based wedding catering, corporate event catering, and private party catering with custom menus and professional chefs.">
+<link rel="icon" type="image/webp" sizes="16x16" href="c3.webp">
 
-<meta name="robots" content="index, follow">
 
-<!-- Open Graph -->
-<meta property="og:type" content="website">
-<meta property="og:title" content="HarvestBite Catering — USA Premium Catering Services">
-<meta property="og:description" content="Professional catering services for weddings, corporate events, and private celebrations across USA.">
-<meta property="og:locale" content="en_US">
 
-<!-- Canonical -->
-<link rel="canonical" href="https://yourdomain.com/home.php">
+
+
 
 <style>
 
@@ -2132,5 +2127,6 @@ function toggleMenu(){
 
 </body>
 </html>
+
 
 
